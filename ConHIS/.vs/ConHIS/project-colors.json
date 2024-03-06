@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b42c50a3-7d71-438d-915a-1e4191731233": {
+      "ProjectGuid": "b42c50a3-7d71-438d-915a-1e4191731233",
+      "DisplayName": "ConHIS",
+      "ColorIndex": 0
+    },
+    "95673736-703e-413a-9832-c774f793091a": {
+      "ProjectGuid": "95673736-703e-413a-9832-c774f793091a",
+      "DisplayName": "JSDConHISInterface.App",
+      "ColorIndex": 1
+    },
+    "d6b0ad55-1ab8-4538-9252-40c06e2c1b10": {
+      "ProjectGuid": "d6b0ad55-1ab8-4538-9252-40c06e2c1b10",
+      "DisplayName": "RestClient.App",
+      "ColorIndex": 2
+    },
+    "7aa5f5ce-88fa-4911-9568-b3510d5c3b8b": {
+      "ProjectGuid": "7aa5f5ce-88fa-4911-9568-b3510d5c3b8b",
+      "DisplayName": "ConhisManager.App",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

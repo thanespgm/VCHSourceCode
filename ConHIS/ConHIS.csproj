@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B42C50A3-7D71-438D-915A-1E4191731233}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ConHIS</RootNamespace>
+    <AssemblyName>ConHIS-SKPH</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>machine.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ConHIS.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.14.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.14.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.8.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.2.8-beta\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.8.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.2.8-beta\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=14.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server\110\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=14.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server\110\SDK\Assemblies\Microsoft.SqlServer.Management.Sdk.Sfc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=14.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server\110\SDK\Assemblies\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.22.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.22\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Npgsql.5.0.0\lib\netstandard2.0\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet, Version=2020.0.0.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106, processorArchitecture=MSIL">
+      <HintPath>..\packages\SSH.NET.2020.0.0-beta1\lib\net40\Renci.SshNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Text.Encodings.Web, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.5.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.5.0.0\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Channels, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Channels.5.0.0\lib\net461\System.Threading.Channels.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.22\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Zstandard.Net, Version=1.1.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.22\lib\net452\Zstandard.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="API\Controllers\JsonLogin.cs" />
+    <Compile Include="API\Controllers\JsonMiddle.cs" />
+    <Compile Include="API\Models\Login.cs" />
+    <Compile Include="API\Models\Middle.cs" />
+    <Compile Include="API\RestClient.cs" />
+    <Compile Include="DatabasePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DatabasePage.Designer.cs">
+      <DependentUpon>DatabasePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrugInfoPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DrugInfoPage.Designer.cs">
+      <DependentUpon>DrugInfoPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FitterPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FitterPage.Designer.cs">
+      <DependentUpon>FitterPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrequencyPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrequencyPage.Designer.cs">
+      <DependentUpon>FrequencyPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FullDetailPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FullDetailPage.Designer.cs">
+      <DependentUpon>FullDetailPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GeneralPage.Designer.cs">
+      <DependentUpon>GeneralPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HL7Class\ElementIndex.cs" />
+    <Compile Include="HL7Class\HL7BucketItem.cs" />
+    <Compile Include="HL7Class\HL7BucketItems.cs" />
+    <Compile Include="HL7Class\HL7Message.cs" />
+    <Compile Include="HL7Class\HL7NodeInfo.cs" />
+    <Compile Include="HL7Class\HL7Segments.cs" />
+    <Compile Include="InstructionPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InstructionPage.Designer.cs">
+      <DependentUpon>InstructionPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libary Class\backup_data.cs" />
+    <Compile Include="Libary Class\CRAInterface\Features\ClassifyMedication_Cra.cs" />
+    <Compile Include="Libary Class\CRAInterface\Features\GetHL7ToDBStructure.cs" />
+    <Compile Include="Libary Class\CRAInterface\Features\HL7DataValidation.cs" />
+    <Compile Include="Libary Class\CRAInterface\Features\thaneshopmiddle_Cra.cs" />
+    <Compile Include="Libary Class\CRAInterface\Features\thaneshopmiddle_extentions_Cra.cs" />
+    <Compile Include="Libary Class\CRAInterface\GenHL7File\GenAndCreateHL7.cs" />
+    <Compile Include="Libary Class\CRAInterface\HL7Structure\AL1.cs" />
+    <Compile Include="Libary Class\CRAInterface\Features\MappingMiddleController.cs" />
+    <Compile Include="Libary Class\CRAInterface\HL7Structure\EVN.cs" />
+    <Compile Include="Libary Class\CRAInterface\HL7Structure\MSH.cs" />
+    <Compile Include="Libary Class\CRAInterface\HL7Structure\NTE.cs" />
+    <Compile Include="Libary Class\CRAInterface\HL7Structure\ORC.cs" />
+    <Compile Include="Libary Class\CRAInterface\HL7Structure\PID.cs" />
+    <Compile Include="Libary Class\CRAInterface\HL7Structure\PV1.cs" />
+    <Compile Include="Libary Class\CRAInterface\HL7Structure\RXD.cs" />
+    <Compile Include="Libary Class\CRAInterface\HL7Structure\TQ1.cs" />
+    <Compile Include="Libary Class\CRAInterface\HL7Structure\RXR.cs" />
+    <Compile Include="Libary Class\classify_medication_ATPM.cs" />
+    <Compile Include="Libary Class\connection_mysqlserver.cs" />
+    <Compile Include="Libary Class\connection_pgsqlserver.cs" />
+    <Compile Include="Libary Class\connection_sqlserver.cs" />
+    <Compile Include="Libary Class\DataClasses.cs" />
+    <Compile Include="Libary Class\dataValidation.cs" />
+    <Compile Include="Libary Class\GanttChartMed.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Libary Class\GanttChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Libary Class\Huachiew Class\generate_textfile_ATPM.cs" />
+    <Compile Include="Libary Class\BDMSInterface\generate_textfile.cs" />
+    <Compile Include="HomePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libary Class\JSDDNET_Drug.cs" />
+    <Compile Include="Libary Class\PCMC Class\hl7_mapping_field_opd.cs" />
+    <Compile Include="Libary Class\PNNInterface\Features\ClassifyMedication.cs" />
+    <Compile Include="Libary Class\PNNInterface\Features\MappingMiddleController.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\RXE.cs" />
+    <Compile Include="Libary Class\SKPHInterface\classify_medication_SKPH.cs" />
+    <Compile Include="Libary Class\SKPHInterface\Features\GetHL7ToDBStructure.cs" />
+    <Compile Include="Libary Class\SKPHInterface\Features\HL7DataValidation.cs" />
+    <Compile Include="Libary Class\SKPHInterface\Features\MappingMiddleControllerSKPH.cs" />
+    <Compile Include="Libary Class\SKPHInterface\Gateway\hosxp_conhis_machine_ipd.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\AL1.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\EVN.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\MSH.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\NTE.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\ORC.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\PID.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\PV1.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\RXD.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\RXE.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\RXR.cs" />
+    <Compile Include="Libary Class\SKPHInterface\HL7Structure\TQ1.cs" />
+    <Compile Include="Libary Class\PNNInterface\Features\HL7DataValidation.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\AL1.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\EVN.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\MSH.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\NTE.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\ORC.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\PID.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\PV1.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\RXD.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\RXR.cs" />
+    <Compile Include="Libary Class\PNNInterface\HL7Structure\TQ1.cs" />
+    <Compile Include="Libary Class\PNNInterface\Gateway\hosxp_conhis_machine_ipd.cs" />
+    <Compile Include="Libary Class\PNNInterface\Features\GetHL7ToDBStructure.cs" />
+    <Compile Include="Libary Class\SKPHInterface\Thaneshopmiddle_extentions_SKPH.cs" />
+    <Compile Include="Libary Class\SKPHInterface\thaneshopmiddle_SKPH.cs" />
+    <Compile Include="Libary Class\SUTH Class\hl7_mapping_field_ipd.cs" />
+    <Compile Include="HL7Class\Segment Class\hl7_nte_V2_3.cs" />
+    <Compile Include="HL7Class\Segment Class\hl7_evn_V2_3.cs" />
+    <Compile Include="HL7Class\Segment Class\hl7_rxr_V2_3.cs" />
+    <Compile Include="HL7Class\Segment Class\hl7_al1_V2_3.cs" />
+    <Compile Include="HL7Class\Segment Class\hl7_orc_V2_3.cs" />
+    <Compile Include="HL7Class\Segment Class\hl7_pv1_V2_3.cs" />
+    <Compile Include="HL7Class\Segment Class\hl7_rxd_V2_3.cs" />
+    <Compile Include="HL7Class\Segment Class\hl7_pid_V2_3 .cs" />
+    <Compile Include="HL7Class\Segment Class\hl7_msh_V2_3.cs" />
+    <Compile Include="Libary Class\SUTH Class\hosxp_conhis_machine_ipd.cs" />
+    <Compile Include="Libary Class\PCMC Class\hosxp_conhis_machine_opd.cs" />
+    <Compile Include="Libary Class\hosxp_generate_data_interface.cs" />
+    <Compile Include="Libary Class\PCMC Class\hosxp_opd_pres_machine.cs" />
+    <Compile Include="Libary Class\SUTH Class\hosxp_hl7_message_interface.cs" />
+    <Compile Include="Libary Class\language_conhis.cs" />
+    <Compile Include="Libary Class\master_druginfomation.cs" />
+    <Compile Include="Libary Class\master_frequency.cs" />
+    <Compile Include="Libary Class\JSDDNET_Prescription.cs" />
+    <Compile Include="Libary Class\master_frequencyInfo.cs" />
+    <Compile Include="Libary Class\master_instruction.cs" />
+    <Compile Include="Libary Class\master_prescription.cs" />
+    <Compile Include="Libary Class\pathfile_config.cs" />
+    <Compile Include="Libary Class\system_logfile.cs" />
+    <Compile Include="Libary Class\Huachiew Class\thaneshopmiddle_extentions_ATPM.cs" />
+    <Compile Include="Libary Class\Huachiew Class\thaneshopmiddle_ATPM.cs" />
+    <Compile Include="Libary Class\PCMC Class\thaneshopmiddle_PCMC.cs" />
+    <Compile Include="Libary Class\Vichaiyut Class\classify_medication_VICHAIYUT.cs" />
+    <Compile Include="Libary Class\Vichaiyut Class\thaneshopdispense_VICHAIYUT.cs" />
+    <Compile Include="Libary Class\Vichaiyut Class\thaneshopmiddle_extentions_Vichaiyut.cs" />
+    <Compile Include="Libary Class\Vichaiyut Class\thaneshopmiddle_VICHAIYUT.cs" />
+    <Compile Include="Libary Class\SUTH Class\thaneshopmiddle_SUTH.cs" />
+    <Compile Include="Libary Class\thanes_textfileslog.cs" />
+    <Compile Include="Libary Class\tpn_frequency.cs" />
+    <Compile Include="Libary Class\Vichaiyut Class\vichaiyut_generate_data_interface.cs" />
+    <Compile Include="MedicationPlaningPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MedicationPlaningPage.Designer.cs">
+      <DependentUpon>MedicationPlaningPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitorPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitorPage.Designer.cs">
+      <DependentUpon>MonitorPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PathfilePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PathfilePage.Designer.cs">
+      <DependentUpon>PathfilePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrescriptionDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrescriptionDetail.designer.cs">
+      <DependentUpon>PrescriptionDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrescriptionPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrescriptionPage.Designer.cs">
+      <DependentUpon>PrescriptionPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libary Class\server_config.cs" />
+    <Compile Include="Libary Class\thaneshopmiddle.cs" />
+    <Compile Include="Libary Class\variable.cs" />
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libary Class\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RestFull TMS\ConHISManager\JsonPatients.cs" />
+    <Compile Include="RestFull TMS\ConHISManager\JsonLanguages.cs" />
+    <Compile Include="RestFull TMS\ConHISManager\JsonGenders.cs" />
+    <Compile Include="RestFull TMS\JsonAllergy.cs" />
+    <Compile Include="RestFull TMS\JsonBed.cs" />
+    <Compile Include="RestFull TMS\JsonDispense.cs" />
+    <Compile Include="RestFull TMS\JsonDruginfo.cs" />
+    <Compile Include="RestFull TMS\JsonDrugUnits.cs" />
+    <Compile Include="RestFull TMS\JsonFrequency.cs" />
+    <Compile Include="RestFull TMS\JsonInstruction.cs" />
+    <Compile Include="RestFull TMS\JsonOperator.cs" />
+    <Compile Include="RestFull TMS\JsonPatient.cs" />
+    <Compile Include="RestFull TMS\JsonPatientType.cs" />
+    <Compile Include="RestFull TMS\JsonPatientVisits.cs" />
+    <Compile Include="RestFull TMS\JsonPrescriptionOrders.cs" />
+    <Compile Include="RestFull TMS\JsonPrescriptionType.cs" />
+    <Compile Include="RestFull TMS\JsonPriority.cs" />
+    <Compile Include="RestFull TMS\JsonReponseMessage.cs" />
+    <Compile Include="RestFull TMS\JsonRobots.cs" />
+    <Compile Include="RestFull TMS\ConHISManager\JsonThaneshopMiddles.cs" />
+    <Compile Include="RestFull TMS\JsonTransectionTake.cs" />
+    <Compile Include="RestFull TMS\JsonUsage.cs" />
+    <Compile Include="RestFull TMS\JsonWard.cs" />
+    <Compile Include="RestFull TMS\RestClient.cs" />
+    <Compile Include="SettingsPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsPage.Designer.cs">
+      <DependentUpon>SettingsPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\PnDrugDispense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tools\PnDrugDispense.Designer.cs">
+      <DependentUpon>PnDrugDispense.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DatabasePage.resx">
+      <DependentUpon>DatabasePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DrugInfoPage.resx">
+      <DependentUpon>DrugInfoPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FitterPage.resx">
+      <DependentUpon>FitterPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrequencyPage.resx">
+      <DependentUpon>FrequencyPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FullDetailPage.resx">
+      <DependentUpon>FullDetailPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralPage.resx">
+      <DependentUpon>GeneralPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InstructionPage.resx">
+      <DependentUpon>InstructionPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MedicationPlaningPage.resx">
+      <DependentUpon>MedicationPlaningPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitorPage.resx">
+      <DependentUpon>MonitorPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PathfilePage.resx">
+      <DependentUpon>PathfilePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrescriptionDetail.resx">
+      <DependentUpon>PrescriptionDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrescriptionPage.resx">
+      <DependentUpon>PrescriptionPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SettingsPage.resx">
+      <DependentUpon>SettingsPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\PnDrugDispense.resx">
+      <DependentUpon>PnDrugDispense.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\โรงพยาบาลกรุงเทพ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\host.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thanes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prescription.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\itemsoflist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PCMC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="machine.ico" />
+    <None Include="Resources\prescription_16.png" />
+    <None Include="Resources\reset_16.png" />
+    <None Include="Resources\remove_16.png" />
+    <None Include="Resources\cancel.bmp" />
+    <None Include="Resources\Logo-CRA.png" />
+    <None Include="Resources\vichaiyut_logo.png" />
+    <None Include="Resources\cancel_16.png" />
+    <None Include="Resources\verified_16.png" />
+    <None Include="Resources\unnamed1.jpg" />
+    <None Include="Resources\unnamed.jpg" />
+    <None Include="Resources\SUTH.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

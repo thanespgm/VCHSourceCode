@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConHIS", "ConHIS.csproj", "{B42C50A3-7D71-438D-915A-1E4191731233}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestClient.App", "..\RestClient.App\RestClient.App.csproj", "{D6B0AD55-1AB8-4538-9252-40C06E2C1B10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSDConHISInterface.App", "..\JSDMCassette.App\JSDConHISInterface.App.csproj", "{95673736-703E-413A-9832-C774F793091A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B42C50A3-7D71-438D-915A-1E4191731233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42C50A3-7D71-438D-915A-1E4191731233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42C50A3-7D71-438D-915A-1E4191731233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42C50A3-7D71-438D-915A-1E4191731233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B0AD55-1AB8-4538-9252-40C06E2C1B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B0AD55-1AB8-4538-9252-40C06E2C1B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B0AD55-1AB8-4538-9252-40C06E2C1B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95673736-703E-413A-9832-C774F793091A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95673736-703E-413A-9832-C774F793091A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95673736-703E-413A-9832-C774F793091A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6547C509-89CF-46F4-8284-176FE0D1C5BE}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://sakdataenmanee.visualstudio.com/
+		SccProjectUniqueName0 = ConHIS.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = https://sakdataenmanee.visualstudio.com
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

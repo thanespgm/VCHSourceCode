@@ -1,0 +1,317 @@
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\ConHIS.exe.config
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\ConHIS.exe
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\ConHIS.pdb
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\MySql.Data.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\Npgsql.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\Npgsql.xml
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.DatabasePage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.FitterPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.FrmMain.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.FullDetailPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.GeneralPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.HomePage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.MonitorPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.PathFilePage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.PrescriptionPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.Properties.Resources.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.SettingsPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.GenerateResource.cache
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.CoreCompileInputs.cache
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.CopyComplete
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.exe
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.pdb
+D:\Thanes_ConHIS_TeamFoundation_Server\Thanes_ConHIS_InterfaceTextFile\ConHIS\ConHIS\obj\Debug\ConHIS.csprojAssemblyReference.cache
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\ConHIS.exe.config
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\ConHIS.exe
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\ConHIS.pdb
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\MySql.Data.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Npgsql.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Npgsql.xml
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.DatabaSepage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.FitterPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.FrmMain.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.FullDetailPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.GeneralPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.HomePage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.MonitorPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.PathFilePage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.PrescriptionPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.Properties.Resources.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.SettingsPage.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.GenerateResource.cache
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.CoreCompileInputs.cache
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.CopyComplete
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.exe
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.pdb
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.PrescriptionDetail.resources
+D:\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csprojAssemblyReference.cache
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.DatabaSepage.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.FitterPage.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.FrmMain.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.FullDetailPage.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.GeneralPage.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.HomePage.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.MedicationPlaningPage.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.MonitorPage.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.PathFilePage.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.PrescriptionDetail.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.PrescriptionPage.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.Properties.Resources.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.SettingsPage.resources
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.GenerateResource.cache
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.CoreCompileInputs.cache
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\ConHIS.exe.config
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\ConHIS.exe
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\ConHIS.pdb
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Google.Protobuf.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\MySql.Data.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Npgsql.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Renci.SshNet.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Buffers.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Memory.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Text.Json.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Threading.Channels.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.ValueTuple.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Zstandard.Net.dll
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Google.Protobuf.pdb
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Google.Protobuf.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\MySql.Data.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Npgsql.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Renci.SshNet.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Buffers.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Memory.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Text.Json.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Threading.Channels.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.ValueTuple.xml
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.CopyComplete
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.exe
+C:\Users\sakda\Documents\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.pdb
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.DatabaSepage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.FitterPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.FrmMain.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.FullDetailPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.GeneralPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.HomePage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.MedicationPlaningPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.MonitorPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.PathFilePage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.PrescriptionDetail.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.PrescriptionPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.Properties.Resources.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.SettingsPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.GenerateResource.cache
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.CoreCompileInputs.cache
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\ConHIS.exe.config
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\ConHIS.exe
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\ConHIS.pdb
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\BouncyCastle.Crypto.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Google.Protobuf.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Compression.LZ4.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Hash.xxHash.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\MySql.Data.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Newtonsoft.Json.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Npgsql.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Renci.SshNet.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Buffers.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Memory.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Numerics.Vectors.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Text.Encodings.Web.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Text.Json.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Threading.Channels.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.ValueTuple.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Ubiety.Dns.Core.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Zstandard.Net.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Google.Protobuf.pdb
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Google.Protobuf.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Compression.LZ4.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\K4os.Hash.xxHash.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\MySql.Data.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Newtonsoft.Json.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Npgsql.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\Renci.SshNet.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Buffers.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Memory.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Numerics.Vectors.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Text.Encodings.Web.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Text.Json.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Threading.Channels.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\bin\Debug\System.ValueTuple.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csproj.CopyComplete
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.exe
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.pdb
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\ConHIS\obj\Debug\ConHIS.csprojAssemblyReference.cache
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.csproj.AssemblyReference.cache
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.csproj.SuggestedBindingRedirects.cache
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.DatabaSepage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.DrugInfoPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.FitterPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.FrequencyPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.FrmMain.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.FullDetailPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.GeneralPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.HomePage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.InstructionPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.MedicationPlaningPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.MonitorPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.PathFilePage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.PrescriptionDetail.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.PrescriptionPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.Properties.Resources.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.SettingsPage.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.Tools.PnDrugDispense.resources
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.csproj.GenerateResource.cache
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.csproj.CoreCompileInputs.cache
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\ConHIS.exe.config
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\ConHIS.exe
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\ConHIS.pdb
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\K4os.Hash.xxHash.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\MaterialSkin.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\MySql.Data.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\System.Buffers.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\System.Memory.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\Ubiety.Dns.Core.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\Zstandard.Net.dll
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\bin\Debug\MySql.Data.xml
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.csproj.CopyComplete
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.exe
+D:\Thanes Development Project\Thanes_ConHIS_TeamFoundation_Server\ConHIS\obj\Debug\ConHIS.pdb
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\bin\Debug\ConHIS.exe.config
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\bin\Debug\ConHIS.exe
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\bin\Debug\ConHIS.pdb
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\bin\Debug\MaterialSkin.dll
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\bin\Debug\System.Buffers.dll
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\bin\Debug\System.Memory.dll
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.DatabaSepage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.DrugInfoPage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.FitterPage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.FrequencyPage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.FrmMain.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.FullDetailPage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.GeneralPage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.HomePage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.InstructionPage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.MedicationPlaningPage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.MonitorPage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.PathFilePage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.PrescriptionDetail.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.PrescriptionPage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.Properties.Resources.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.SettingsPage.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.Tools.PnDrugDispense.resources
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.csproj.GenerateResource.cache
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.csproj.CoreCompileInputs.cache
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.csproj.CopyComplete
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.exe
+D:\workspace\WORK 2022\ConHIS รพ ปากช่องนานา\ConHIS\obj\Debug\ConHIS.pdb
+C:\ConHisInterface_Pakchongnana\ConHIS\bin\Debug\ConHIS.exe.config
+C:\ConHisInterface_Pakchongnana\ConHIS\bin\Debug\ConHIS.exe
+C:\ConHisInterface_Pakchongnana\ConHIS\bin\Debug\ConHIS.pdb
+C:\ConHisInterface_Pakchongnana\ConHIS\bin\Debug\MaterialSkin.dll
+C:\ConHisInterface_Pakchongnana\ConHIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ConHisInterface_Pakchongnana\ConHIS\bin\Debug\System.Buffers.dll
+C:\ConHisInterface_Pakchongnana\ConHIS\bin\Debug\System.Memory.dll
+C:\ConHisInterface_Pakchongnana\ConHIS\bin\Debug\System.Numerics.Vectors.dll
+C:\ConHisInterface_Pakchongnana\ConHIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ConHisInterface_Pakchongnana\ConHIS\bin\Debug\System.ValueTuple.dll
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.csproj.AssemblyReference.cache
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.DatabaSepage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.DrugInfoPage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.FitterPage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.FrequencyPage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.FrmMain.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.FullDetailPage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.GeneralPage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.HomePage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.InstructionPage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.MedicationPlaningPage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.MonitorPage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.PathFilePage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.PrescriptionDetail.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.PrescriptionPage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.Properties.Resources.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.SettingsPage.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.Tools.PnDrugDispense.resources
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.csproj.GenerateResource.cache
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.csproj.CoreCompileInputs.cache
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.csproj.CopyComplete
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.exe
+C:\ConHisInterface_Pakchongnana\ConHIS\obj\Debug\ConHIS.pdb
+C:\ConHisInterface\ConHIS\bin\Debug\MaterialSkin.dll
+C:\ConHisInterface\ConHIS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ConHisInterface\ConHIS\bin\Debug\System.Buffers.dll
+C:\ConHisInterface\ConHIS\bin\Debug\System.Memory.dll
+C:\ConHisInterface\ConHIS\bin\Debug\System.Numerics.Vectors.dll
+C:\ConHisInterface\ConHIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ConHisInterface\ConHIS\bin\Debug\System.ValueTuple.dll
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.csproj.AssemblyReference.cache
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.DatabaSepage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.DrugInfoPage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.FitterPage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.FrequencyPage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.FrmMain.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.FullDetailPage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.GeneralPage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.HomePage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.InstructionPage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.MedicationPlaningPage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.MonitorPage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.PathFilePage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.PrescriptionDetail.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.PrescriptionPage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.Properties.Resources.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.SettingsPage.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.Tools.PnDrugDispense.resources
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.csproj.GenerateResource.cache
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.csproj.CoreCompileInputs.cache
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS.csproj.CopyComplete
+C:\ConHisInterface\ConHIS\bin\Debug\ConHIS-SKPH.exe.config
+C:\ConHisInterface\ConHIS\bin\Debug\ConHIS-SKPH.exe
+C:\ConHisInterface\ConHIS\bin\Debug\ConHIS-SKPH.pdb
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS-SKPH.exe
+C:\ConHisInterface\ConHIS\obj\Debug\ConHIS-SKPH.pdb
